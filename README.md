@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Jithyasree
 
-<!--
-**Jithyasree/Jithyasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst & Data Science Enthusiast
 
-Here are some ideas to get you started:
+* 🎓 Computer Science & Engineering Graduate
+* 📊 Passionate about Data Analytics, Business Intelligence, and Machine Learning
+* 🌱 Currently improving my SQL, Power BI, Python, and Data Visualization skills
+* 🚀 Building real-world projects in Power BI, Machine Learning, and Web Development
+* 📈 Interested in transforming data into meaningful insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+
+* HR Analytics Dashboard (Power BI)
+* UPI Transaction Fraud Detection System
+* YouTube Clone
+
+### 📫 How to Reach Me
+
+* Email: jithya.chadaram@gmail.com
+* LinkedIn: www.linkedin.com/in/jithyasree-chadaram-236053348
+
+### Connect with Me
+
+* LinkedIn
+* GitHub
+
+### 🛠 Languages and Tools
+
+* Data Visualization
+* Python
+* SQL
+* Power BI
+* Excel
+* Pandas
+* NumPy
+* Scikit-learn
+* Git
+* GitHub
+
