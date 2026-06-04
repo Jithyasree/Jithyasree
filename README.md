@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jithyasree
 
-### Aspiring Data Analyst & Data Science Enthusiast
+###                                         Aspiring Data Analyst & Data Science Enthusiast
 
 * 🎓 Computer Science & Engineering Graduate
 * 📊 Passionate about Data Analytics, Business Intelligence, and Machine Learning
